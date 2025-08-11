@@ -1,57 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Claim Form Tutorial</title>
-  <style>
-    body {
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      background-color: #f4f6f8;
-      margin: 0;
-      padding: 0;
-      line-height: 1.6;
-    }
-    header {
-      background-color: #007bff;
-      color: white;
-      padding: 20px;
-      text-align: center;
-    }
-    main {
-      max-width: 900px;
-      margin: 30px auto;
-      padding: 20px;
-      background-color: white;
-      border-radius: 8px;
-      box-shadow: 0 0 10px rgba(0,0,0,0.1);
-    }
-    h2 {
-      color: #007bff;
-      margin-top: 30px;
-    }
-    ul {
-      padding-left: 20px;
-    }
-    li {
-      margin-bottom: 10px;
-    }
-    .step {
-      margin-bottom: 25px;
-    }
-    .highlight {
-      background-color: #e9f5ff;
-      padding: 10px;
-      border-left: 4px solid #007bff;
-      margin-top: 10px;
-      border-radius: 4px;
-    }
-    footer {
-      text-align: center;
-      padding: 20px;
-      color: #666;
-    }
-  </style>
-</head>
+
 <body>
 
 <header>
